@@ -10,7 +10,7 @@ public class TC_CreateLead extends Annotations{
 	@BeforeTest
 	public void setValue()
 	{
-		testName = "TestCase001";//changed
+		testName = "Test001";//changed
 		 testDesc = "Create a new Lead in Leaftaps";
 		 moduleName="Leads";
 	 author="Sheena";
